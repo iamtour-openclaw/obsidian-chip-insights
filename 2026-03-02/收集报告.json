@@ -1,0 +1,17 @@
+{
+  "date": "2026-03-02",
+  "time": "22:03",
+  "insights_count": 8,
+  "files_created": 9,
+  "sources": [
+    "IDC",
+    "SEMICON",
+    "Deloitte",
+    "IEEE Spectrum",
+    "McKinsey",
+    "BCG",
+    "Gartner",
+    "中芯国际"
+  ],
+  "git_push_success": true
+}
