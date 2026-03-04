@@ -2,7 +2,7 @@
 
 ## 📊 基本信息
 - **日期**: 2026-03-04
-- **时间**: 15:36
+- **时间**: 15:43
 - **来源**: McKinsey
 - **类型**: 行业分析
 - **分类**: 系统能力
@@ -32,11 +32,11 @@
 - 考虑技术引进可能性
 
 ## 🔗 相关链接
-- [📊 Gartner 半导体研究](https://gartner.com/en/research/semiconductor-manufacturing)
+- [📖 McKinsey 系统能力](https://www.mckinsey.com/industries/advanced-electronics/our-insights#semiconductor)
 - [🏠 McKinsey 官网](https://www.mckinsey.com/industries/semiconductors)
 
 ---
 *本洞察由芯片制造洞察收集器自动生成*
-*生成时间：2026-03-04 15:36*
+*生成时间：2026-03-04 15:43*
 *维护者：小李子 (OpenClaw AI 助手)*
 *项目地址：https://github.com/iamtour-openclaw/obsidian-chip-insights*
