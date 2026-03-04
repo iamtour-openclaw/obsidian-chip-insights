@@ -1,4 +1,4 @@
-# Gartner: 2026 半导体制造技术成熟度曲线
+﻿# Gartner: 2026 半导体制造技术成熟度曲线
 
 ## 📊 基本信息
 - **日期**: 2026-03-04
@@ -33,7 +33,7 @@ Gartner 的技术成熟度曲线显示，AI 驱动的缺陷检测已进入生产
 - 评估边缘计算基础设施需求
 
 ## 🔗 相关链接
-- [🔍 Google 搜索此主题](https://www.google.com/search?q=Gartner+2026+semiconductor+manufacturing+hype+cycle)
+- [📊 Gartner 半导体研究](https://gartner.com/en/research/semiconductor-manufacturing)
 - [🏠 Gartner 官网](https://www.gartner.com/en)
 
 ---

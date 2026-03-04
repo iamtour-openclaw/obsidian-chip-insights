@@ -1,4 +1,4 @@
-# 半导体晶圆厂 MES 系统新能力解析
+﻿# 半导体晶圆厂 MES 系统新能力解析
 
 ## 📊 基本信息
 - **日期**: 2026-03-03
@@ -32,7 +32,7 @@
 - 考虑技术引进可能性
 
 ## 🔗 相关链接
-- [🔍 Google 搜索此主题](https://www.google.com/search?q=半导体晶圆厂+MES+系统新能力解析+McKinsey)
+- [📊 Gartner 半导体研究](https://gartner.com/en/research/semiconductor-manufacturing)
 - [🏠 McKinsey 官网](https://www.mckinsey.com/industries/semiconductors)
 
 ---

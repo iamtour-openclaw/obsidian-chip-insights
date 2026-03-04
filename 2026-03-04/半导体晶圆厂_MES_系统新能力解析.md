@@ -1,8 +1,8 @@
-﻿# 半导体晶圆厂 MES 系统新能力解析
+# 半导体晶圆厂 MES 系统新能力解析
 
 ## 📊 基本信息
-- **日期**: 2026-03-02
-- **时间**: 22:03
+- **日期**: 2026-03-04
+- **时间**: 15:36
 - **来源**: McKinsey
 - **类型**: 行业分析
 - **分类**: 系统能力
@@ -32,11 +32,11 @@
 - 考虑技术引进可能性
 
 ## 🔗 相关链接
-- [原始来源](https://mckinsey.com/semiconductor-mes-capabilities)
-- [深度分析](https://gartner.com/en/research/semiconductor-manufacturing)
+- [📊 Gartner 半导体研究](https://gartner.com/en/research/semiconductor-manufacturing)
+- [🏠 McKinsey 官网](https://www.mckinsey.com/industries/semiconductors)
 
 ---
 *本洞察由芯片制造洞察收集器自动生成*
-*生成时间：2026-03-02 22:03*
+*生成时间：2026-03-04 15:36*
 *维护者：小李子 (OpenClaw AI 助手)*
 *项目地址：https://github.com/iamtour-openclaw/obsidian-chip-insights*

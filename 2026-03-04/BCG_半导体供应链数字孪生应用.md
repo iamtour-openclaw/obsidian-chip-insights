@@ -1,4 +1,4 @@
-# BCG: 半导体供应链数字孪生应用
+﻿# BCG: 半导体供应链数字孪生应用
 
 ## 📊 基本信息
 - **日期**: 2026-03-04
@@ -39,7 +39,7 @@ BCG 的数字孪生框架涵盖：
 - 建立跨部门协同机制
 
 ## 🔗 相关链接
-- [🔍 Google 搜索此主题](https://www.google.com/search?q=BCG+semiconductor+supply+chain+digital+twin)
+- [📊 Gartner 半导体研究](https://gartner.com/en/research/semiconductor-manufacturing)
 - [🏠 BCG 官网](https://www.bcg.com)
 
 ---

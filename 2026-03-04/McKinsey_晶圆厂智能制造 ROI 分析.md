@@ -1,4 +1,4 @@
-# McKinsey: 晶圆厂智能制造 ROI 分析
+﻿# McKinsey: 晶圆厂智能制造 ROI 分析
 
 ## 📊 基本信息
 - **日期**: 2026-03-04
@@ -37,7 +37,7 @@
 - 分阶段投资降低风险
 
 ## 🔗 相关链接
-- [🔍 Google 搜索此主题](https://www.google.com/search?q=McKinsey+semiconductor+smart+manufacturing+ROI)
+- [📊 Gartner 半导体研究](https://gartner.com/en/research/semiconductor-manufacturing)
 - [🏠 McKinsey 官网](https://www.mckinsey.com)
 
 ---
