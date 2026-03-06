@@ -1,0 +1,58 @@
+{
+  "date": "2026-03-06",
+  "collectionTime": "08:01",
+  "totalNotes": 7,
+  "sources": [
+    {
+      "name": "Gartner",
+      "count": 1,
+      "type": "市场预测"
+    },
+    {
+      "name": "McKinsey",
+      "count": 1,
+      "type": "数字化转型"
+    },
+    {
+      "name": "BCG",
+      "count": 1,
+      "type": "技术报告"
+    },
+    {
+      "name": "Deloitte",
+      "count": 1,
+      "type": "行业分析"
+    },
+    {
+      "name": "IEEE Spectrum",
+      "count": 1,
+      "type": "技术报告"
+    },
+    {
+      "name": "台积电",
+      "count": 1,
+      "type": "行业案例"
+    },
+    {
+      "name": "中芯国际",
+      "count": 1,
+      "type": "行业案例"
+    }
+  ],
+  "categories": {
+    "市场预测": 1,
+    "数字化转型": 1,
+    "技术报告": 2,
+    "行业分析": 1,
+    "行业案例": 2
+  },
+  "themes": [
+    "AI 驱动的智能制造",
+    "预测性维护",
+    "数字孪生",
+    "制程优化",
+    "本土制造崛起"
+  ],
+  "collector": "小李子 (OpenClaw AI 助手)",
+  "repository": "https://github.com/iamtour-openclaw/obsidian-chip-insights"
+}
