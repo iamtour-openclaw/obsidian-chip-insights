@@ -1,0 +1,67 @@
+{
+  "collectionDate": "2026-03-12",
+  "collectionTime": "22:00",
+  "timezone": "Asia/Hong_Kong",
+  "totalInsights": 5,
+  "sources": [
+    {
+      "name": "IEEE Spectrum",
+      "count": 5,
+      "articles": [
+        {
+          "title": "Intel's Heracles Chip Speeds Up FHE Computing",
+          "url": "https://spectrum.ieee.org/fhe-intel",
+          "publishDate": "2026-03-10",
+          "category": "新技术",
+          "fileName": "Intel Heracles 全同态加密芯片.md"
+        },
+        {
+          "title": "RAM Shortage Drives Up Low-Cost Computer Prices",
+          "url": "https://spectrum.ieee.org/ram-shortage-price-increase",
+          "publishDate": "2026-02-23",
+          "category": "市场洞察",
+          "fileName": "RAM 短缺冲击低价电脑市场.md"
+        },
+        {
+          "title": "AI Boom Fuels DRAM Shortage and Price Surge",
+          "url": "https://spectrum.ieee.org/dram-shortage",
+          "publishDate": "2026-02-10",
+          "category": "市场洞察",
+          "fileName": "AI 热潮引发 DRAM 短缺.md"
+        },
+        {
+          "title": "Bulk RRAM: Scaling the AI Memory Wall",
+          "url": "https://spectrum.ieee.org/ai-and-memory-wall",
+          "publishDate": "2026-02-09",
+          "category": "新技术",
+          "fileName": "Bulk RRAM 突破 AI 内存墙.md"
+        },
+        {
+          "title": "HBM on GPU: Thermal Challenges and Solutions",
+          "url": "https://spectrum.ieee.org/hbm-on-gpu-imec-iedm",
+          "publishDate": "2026-01-14",
+          "category": "新技术",
+          "fileName": "HBM 堆叠 GPU 散热挑战.md"
+        }
+      ]
+    }
+  ],
+  "categories": {
+    "新技术": 3,
+    "市场洞察": 2
+  },
+  "keyThemes": [
+    "HBM 与 DRAM 短缺",
+    "存算一体技术",
+    "先进封装散热",
+    "安全计算加速器"
+  ],
+  "searchKeywords": [
+    "IEEE Spectrum semiconductors",
+    "HBM GPU thermal",
+    "RRAM compute-in-memory",
+    "DRAM shortage AI",
+    "Intel FHE accelerator"
+  ],
+  "notes": "今日收集聚焦内存技术瓶颈，5 篇文章中 4 篇涉及内存相关主题。AI 需求推动 HBM 价格上涨，同时催生存算一体等替代技术方案。"
+}
