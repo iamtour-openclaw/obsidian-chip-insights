@@ -1,0 +1,20 @@
+{
+  "date": "2026-03-14",
+  "collection_time": "08:00",
+  "total_insights": 2,
+  "sources": ["McKinsey & Company"],
+  "insights": [
+    {
+      "title": "McKinsey_数字化赋能晶圆厂性能优化",
+      "source": "McKinsey & Company",
+      "category": "智能制造",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-power-of-digital-quantifying-semiconductor-fab-performance"
+    },
+    {
+      "title": "McKinsey_AI对半导体行业的影响",
+      "source": "McKinsey & Company",
+      "category": "AI应用/市场趋势",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/silicon-squeeze-ais-impact-on-the-semiconductor-industry"
+    }
+  ]
+}
