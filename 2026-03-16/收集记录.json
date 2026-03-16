@@ -1,0 +1,24 @@
+{
+  "date": "2026-03-16",
+  "time": "08:00",
+  "status": "completed",
+  "source": "Semiconductor Engineering",
+  "count": 3,
+  "articles": [
+    {
+      "title": "AI Power on the Edge",
+      "url": "https://semiengineering.com/ai-power-on-the-edge/",
+      "category": "边缘AI"
+    },
+    {
+      "title": "Digital Twins: The Cloud's The Limit",
+      "url": "https://semiengineering.com/digital-twins-the-clouds-the-limit/",
+      "category": "数字孪生"
+    },
+    {
+      "title": "Data-Driven Optimization In Semiconductor Manufacturing",
+      "url": "https://semiengineering.com/data-driven-optimization-in-semiconductor-manufacturing/",
+      "category": "数据驱动"
+    }
+  ]
+}
