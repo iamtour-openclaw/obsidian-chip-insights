@@ -8,5 +8,5 @@
   ],
   "status": "partial",
   "note": "Brave Search API key not configured - limited collection",
-  "git_push_success": false
+  "git_push_success": true
 }
